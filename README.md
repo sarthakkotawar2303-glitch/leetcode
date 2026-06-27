@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
