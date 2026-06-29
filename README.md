@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
@@ -172,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
