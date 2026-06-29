@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
