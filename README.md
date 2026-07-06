@@ -94,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0127-word-ladder) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0127-word-ladder) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 ## Two Pointers
