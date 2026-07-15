@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
 | ------- |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
