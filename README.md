@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Design
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Combinatorics
 |  |
 | ------- |
