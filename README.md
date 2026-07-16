@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1306-jump-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -174,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -233,4 +237,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
