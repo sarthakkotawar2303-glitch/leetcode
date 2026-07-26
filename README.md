@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [3536-maximum-product-of-two-digits](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3536-maximum-product-of-two-digits](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
