@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1306-jump-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
