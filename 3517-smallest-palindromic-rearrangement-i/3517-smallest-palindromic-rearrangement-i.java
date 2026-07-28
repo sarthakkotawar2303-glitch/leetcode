@@ -1,32 +1,28 @@
 class Solution {
     public String smallestPalindrome(String s) {
-
-        TreeMap<Character,Integer>map=new TreeMap<>();
-        char[] arr=s.toCharArray();
-        Arrays.sort(arr);
-
-        for(char c:arr){
-            map.put(c,map.getOrDefault(c,0)+1);
+        int[] freq=new int[26];
+        for(char c:s.toCharArray()){
+            freq[c-'a']++;
         }
 
         StringBuilder left=new StringBuilder();
         StringBuilder middle=new StringBuilder();
 
-        for(char key:map.keySet()){
-            int freq=map.get(key);
+        for(int i=0;i<26;i++){
+            char curr=(char)('a'+i);
+            int f=freq[i];
 
-            for(int i=0;i<freq/2;i++){
-                left.append(key);
+            for(int j=0;j<f/2;j++){
+                left.append(curr);
             }
 
-            if(freq%2==1){
-                middle.append(key);
+            if(f%2==1){
+                middle.append(curr);
             }
+
         }
 
         StringBuilder right=new StringBuilder(left).reverse();
-
         return left.toString()+middle.toString()+right.toString();
-
     }
 }
