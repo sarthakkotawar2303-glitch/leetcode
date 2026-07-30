@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
