@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1306-jump-game-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Prefix Sum
 |  |
