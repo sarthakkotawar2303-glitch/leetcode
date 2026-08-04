@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3731-find-missing-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
