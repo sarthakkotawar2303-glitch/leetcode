@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
