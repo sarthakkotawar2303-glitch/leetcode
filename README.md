@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
