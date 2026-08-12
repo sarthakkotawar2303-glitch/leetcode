@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -333,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
