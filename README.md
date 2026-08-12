@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0027-remove-element) |
 | [0130-surrounded-regions](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
