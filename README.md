@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
