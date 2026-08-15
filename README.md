@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Number Theory
 |  |
