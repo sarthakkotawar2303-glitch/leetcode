@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -425,4 +428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
