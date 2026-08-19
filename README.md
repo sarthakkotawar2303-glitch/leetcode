@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
