@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
