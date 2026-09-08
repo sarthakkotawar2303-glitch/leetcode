@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0383-ransom-note) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0657-robot-return-to-origin](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
