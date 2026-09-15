@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1306-jump-game-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -463,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
