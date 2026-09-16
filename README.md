@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
+| [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
