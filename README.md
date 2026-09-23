@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
