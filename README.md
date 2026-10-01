@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -525,4 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
