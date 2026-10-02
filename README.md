@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -537,10 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
