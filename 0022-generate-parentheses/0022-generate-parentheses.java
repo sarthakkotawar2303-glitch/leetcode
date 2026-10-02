@@ -1,32 +1,32 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, new StringBuilder(), 0, 0, n);
-        return result;
+    ArrayList<String> ans = new ArrayList<>();
+
+    public void backtracking(StringBuilder p, int n, int open, int close) {
+
+        if (p.length() == n * 2) {
+            ans.add(p.toString());
+
+        }
+
+        if (open < n) {
+
+            p.append('(');
+            backtracking(p, n, open + 1, close);
+            p.deleteCharAt(p.length() - 1);
+        }
+        if (close < open) {
+            p.append(')');
+            backtracking(p, n, open, close + 1);
+            p.deleteCharAt(p.length() - 1);
+
+        }
     }
 
-    private void backtrack(List<String> result, StringBuilder current, int open, int close, int max) {
-        // Base case: Valid combination found when length reaches 2 * max
-        if (current.length() == max * 2) {
-            result.add(current.toString());
-            return;
-        }
+    public List<String> generateParenthesis(int n) {
+        if (n == 0)
+            return ans;
 
-        // Choice 1: Add an open parenthesis if we haven't used all 'n' of them
-        if (open < max) {
-            current.append("(");
-            backtrack(result, current, open + 1, close, max);
-            current.deleteCharAt(current.length() - 1); // Backtrack
-        }
-
-        // Choice 2: Add a close parenthesis only if it won't exceed the open ones
-        if (close < open) {
-            current.append(")");
-            backtrack(result, current, open, close + 1, max);
-            current.deleteCharAt(current.length() - 1); // Backtrack
-        }
+        backtracking(new StringBuilder(), n, 0, 0);
+        return ans;
     }
 }
