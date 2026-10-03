@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
@@ -567,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
