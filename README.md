@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
