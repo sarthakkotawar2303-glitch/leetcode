@@ -89,6 +89,28 @@ class Solution {
 
 
         // Tabulation
-        return tabulation(nums);
+        // return tabulation(nums);
+
+
+        //Solving this question through LIS method 
+        int[] dp=new int[nums.length];
+
+        Arrays.fill(dp,1);
+        
+        //current digit
+        int maxLen=1;
+        for(int i=0;i<nums.length;i++){
+
+            //compare with prev digits
+            for(int j=0;j<i;j++)
+            {
+                if(nums[i]>nums[j]  && dp[i]<dp[j]+1){
+                   dp[i]=dp[j]+1;
+                   maxLen=Math.max(dp[i],maxLen);
+                }
+            }
+        }
+        return maxLen;
+        
     }
 }
