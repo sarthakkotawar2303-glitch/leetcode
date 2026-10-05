@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0752-open-the-lock) |
+| [0856-score-of-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0856-score-of-parentheses) |
 ## Complete Knapsack
 |  |
 | ------- |
