@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
