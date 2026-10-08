@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0198-house-robber) |
