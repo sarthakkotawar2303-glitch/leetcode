@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3731-find-missing-elements) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0778-swim-in-rising-water](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
