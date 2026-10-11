@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -635,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1143-longest-common-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
