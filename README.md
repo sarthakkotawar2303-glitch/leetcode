@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0620-not-boring-movies) |
