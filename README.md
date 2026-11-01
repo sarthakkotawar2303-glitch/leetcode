@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0525-contiguous-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthakkotawar2303-glitch/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
